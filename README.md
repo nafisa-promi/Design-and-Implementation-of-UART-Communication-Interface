@@ -4,7 +4,7 @@
 
 This project presents the **design, verification, and synthesis of an 8-bit Universal Asynchronous Receiver-Transmitter (UART) communication interface** using Verilog HDL.
 
-The UART system consists of a transmitter, receiver, and baud rate generator. The transmitter converts 8-bit parallel data into a serial stream with start and stop bits, while the receiver reconstructs the transmitted data using **16× oversampling**. An internal loopback architecture connects the transmitter output directly to the receiver input for complete end-to-end verification. :contentReference[oaicite:0]{index=0}
+The UART system consists of a transmitter, receiver, and baud rate generator. The transmitter converts 8-bit parallel data into a serial stream with start and stop bits, while the receiver reconstructs the transmitted data using **16× oversampling**. An internal loopback architecture connects the transmitter output directly to the receiver input for complete end-to-end verification. 
 
 ## Key Features
 
