@@ -20,3 +20,15 @@ The UART system consists of a transmitter, receiver, and baud rate generator. Th
 - Functional coverage analysis
 - Gate-level synthesis using Cadence Genus
 - Physical design using Cadence Innovus
+
+##Project Team
+
+Bangladesh University of Engineering and Technology (BUET)
+Department of Electrical and Electronic Engineering
+EEE 468 — VLSI Laboratory
+Members-
+Sheikh Munkasir Ahmed Rafeed
+Nafisa Anjum Promi
+Md. Shahriar Rahman Siam
+Mst. Tasnim Mehedy
+
