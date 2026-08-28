@@ -26,9 +26,9 @@ The UART system consists of a transmitter, receiver, and baud rate generator. Th
 Bangladesh University of Engineering and Technology (BUET)
 Department of Electrical and Electronic Engineering
 EEE 468 — VLSI Laboratory
-Members-
-Sheikh Munkasir Ahmed Rafeed
-Nafisa Anjum Promi
-Md. Shahriar Rahman Siam
-Mst. Tasnim Mehedy
+Members
+-Sheikh Munkasir Ahmed Rafeed
+-Nafisa Anjum Promi
+-Md. Shahriar Rahman Siam
+-Mst. Tasnim Mehedy
 
