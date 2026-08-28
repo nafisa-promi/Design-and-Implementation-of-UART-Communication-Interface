@@ -21,14 +21,14 @@ The UART system consists of a transmitter, receiver, and baud rate generator. Th
 - Gate-level synthesis using Cadence Genus
 - Physical design using Cadence Innovus
 
-##Project Team
+## Project Team
 
-Bangladesh University of Engineering and Technology (BUET)
-Department of Electrical and Electronic Engineering
-EEE 468 — VLSI Laboratory
-Members
--Sheikh Munkasir Ahmed Rafeed
--Nafisa Anjum Promi
--Md. Shahriar Rahman Siam
--Mst. Tasnim Mehedy
+**Bangladesh University of Engineering and Technology (BUET)**  
+**Department of Electrical and Electronic Engineering**  
+**EEE 468 — VLSI Laboratory**
+
+- Sheikh Munkasir Ahmed Rafeed
+- Nafisa Anjum Promi
+- Md. Shahriar Rahman Siam
+- Mst. Tasnim Mehedy
 
